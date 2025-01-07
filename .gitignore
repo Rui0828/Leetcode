@@ -1,0 +1,99 @@
+# C/C++ specific
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+*.dll
+*.dylib
+*.pdb
+*.idb
+*.lib
+*.stackdump
+
+# Generated files
+*.class
+*.jar
+*.war
+*.ear
+*.map
+*.dSYM/
+*.elf
+*.hex
+*.bin
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
+/x64/
+/x86/
+/CMakeFiles/
+
+# IDE specific
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+*.sublime-* 
+*.project
+*.cproject
+*.settings/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+__pycache__/
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.jmod
+
+# Maven and Gradle specific
+target/
+*.pom
+dist/
+.gradle/
+build/
+
+# Miscellaneous
+*.swp
+*.swo
+*.bak
+*.tmp
+*.DS_Store
+Thumbs.db
+
+# Exclude sensitive files
+*.key
+*.pem
+*.cert
+.env
+
+# System-specific files
+.DS_Store
+*.crdownload
+Icon?
+Thumbs.db
+
+# Other
+output/
