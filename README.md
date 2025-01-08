@@ -6,7 +6,7 @@
 <picture>
     <source 
         srcset="https://leetcard.jacoblin.cool/Rui0828?theme=light&border=0&ext=heatmap"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width="800"
     />
     <source 
         srcset="https://leetcard.jacoblin.cool/Rui0828?theme=dark&border=0&ext=heatmap"
