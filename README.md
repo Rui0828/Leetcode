@@ -5,14 +5,14 @@
 <p align="center">
 <picture>
     <source 
-        srcset="https://leetcard.jacoblin.cool/Rui0828?theme=light&border=0&ext=heatmap"
+        srcset="https://leetcard.jacoblin.cool/Rui0828?theme=unicorn&border=0&ext=heatmap"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width="800"
     />
     <source 
-        srcset="https://leetcard.jacoblin.cool/Rui0828?theme=dark&border=0&ext=heatmap" width="800"
+        srcset="https://leetcard.jacoblin.cool/Rui0828?theme=nord&border=0&ext=heatmap" width="800"
         media="(prefers-color-scheme: dark)"
     />
-    <img src="https://leetcard.jacoblin.cool/Rui0828?theme=light&border=0&ext=heatmap" width="800" alt="LeetCode stats" />
+    <img src="https://leetcard.jacoblin.cool/Rui0828?theme=unicorn&border=0&ext=heatmap" width="800" alt="LeetCode stats" />
 </picture>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNqdTdraWkxdWo0Z3phZjlpamw4cGJnN2llM3Zia2J0bW4wcGtqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.webp">
 </p>
