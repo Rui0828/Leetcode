@@ -17,7 +17,7 @@ class Solution:
         l = -heapq.heappop(arr)
         while l != 1:
 
-            d = sum([-i for i in arr])
+            d = -sum(arr)
             if l < d + 1:
                 return False
 
